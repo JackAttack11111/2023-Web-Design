@@ -1,0 +1,27 @@
+body {
+    background-image: url(media/Untitled-1.png);
+    background-size: cover;
+    background-repeat: no-reapeat;
+}
+
+.maintext {
+    margin-top: 70%;
+    font-size: 800% ;
+    font-family: arial;
+    font-weight: bold;
+    color: grey;
+    text-align: center;
+    font-style: italic;
+}
+
+.imageresize img {
+    width: 70%;
+    height: auto;
+}
+
+.imagetext {
+    font-size: 250%;
+    font-weight: bold;
+    text-align: center;
+    color: seagreen;
+}
