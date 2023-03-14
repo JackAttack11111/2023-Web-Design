@@ -25,3 +25,13 @@ body {
     text-align: center;
     color: seagreen;
 }
+
+.contact {
+    background-image:none;
+    background-color: darkgrey;
+}
+
+.work {
+    background-image: none;
+    background-color: green;
+}
